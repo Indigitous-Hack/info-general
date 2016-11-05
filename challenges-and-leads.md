@@ -10,6 +10,8 @@ http://indigitous.org/hack/challenges/bibleboxpi
 
 Supported by Missionary Aviation Fellowship (MAF) 
 
+Challenge lead: Elliott Stoddard
+
 
 ### Bridge Builders (#bridgebuilders) 
 
@@ -32,6 +34,8 @@ Johnny Hausman (english) johnny@appdevdesigns.net
 
 Pong Wongpratan Promrat (thai) pong@appdevdesigns.net 
 
+Ric Poolman
+
 
 ### Cyberbullying (#cyberbullying) 
 
@@ -48,7 +52,7 @@ http://indigitous.org/hack/challenges/deeplinking
 
 Supported by Cru
 
-Challenge lead: 
+Challenge lead:
 
 
 ### Digital Bible Coaching (#biblecoaching)
@@ -66,7 +70,7 @@ http://indigitous.org/hack/challenges/gospelstorytelling
 
 Supported by jesus.net
 
-Challenge Lead:
+Challenge Lead: Jan-Willem Bosman
 
 
 ### Grassroots Impact (#grassrootsimpact)
@@ -115,11 +119,11 @@ Challenge lead: Jillian Felty (located at #Hack Sacramento)
 
 ### Scripture App Publishing Service (#scripturepub)
 
-http://indigitous.org/hack/chaillenges/scripturepub
+https://indigitous.org/hack/challenges/scripturepub/
 
 Supported by Wycliffe USA
 
-Challenge lead: Paul Nelson
+Challenge lead: Chris Hubbard
 
 
 ### Stop Sexting (#stopsexting) 
