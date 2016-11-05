@@ -1,7 +1,7 @@
 
 # A Missional Technology Hackathon 
 
-## Global Challenge Summary
+## Global Challenge Leads
 
 
 ### BibleBox Pi (#bibleboxpi)
