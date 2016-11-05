@@ -52,7 +52,7 @@ http://indigitous.org/hack/challenges/deeplinking
 
 Supported by Cru
 
-Challenge lead:
+Challenge lead: Spencer Oberstadt
 
 
 ### Digital Bible Coaching (#biblecoaching)
