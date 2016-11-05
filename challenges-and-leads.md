@@ -93,7 +93,7 @@ http://indigitous.org/hack/challenges/lowconnectivity
 
 Supported by Jesus Film Project
 
-Challenge lead: Gabe Handy
+Challenge lead: Sway Ciaramello
 
 
 ### Music Finder (#musicfinder) 
